@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Table = () => {
+const CardTable = () => {
   return (
       <table>
           <tr>
@@ -124,4 +124,4 @@ const Table = () => {
   )
 }
 
-export default Table
+export default CardTable
